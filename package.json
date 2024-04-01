@@ -1,6 +1,6 @@
 {
-  "name": "fetti",
-  "version": "1.0.0",
+  "name": "the-fetti",
+  "version": "1.0.1",
   "type": "module",
   "main": "src/index.tsx",
   "scripts": {
