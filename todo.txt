@@ -1,0 +1,10 @@
+- Add starting point prop
+ interface StartingPoint {
+   startingPoint?: "center" | "bottom" | "left" | "top" | "right";
+}
+
+- add infinite
+- number controls
+- Color selection?
+- Create a link, drop on a webpage?
+
